@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\GetDays\bin\Debug\GetDays.dll
+C:\Users\user\source\repos\GetDays\bin\Debug\GetDays.pdb
+C:\Users\user\source\repos\GetDays\obj\Debug\GetDays.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GetDays\obj\Debug\GetDays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GetDays\obj\Debug\GetDays.dll
+C:\Users\user\source\repos\GetDays\obj\Debug\GetDays.pdb

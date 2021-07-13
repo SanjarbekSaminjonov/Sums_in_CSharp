@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetDays", "GetDays.csproj", "{BAB45493-154F-498D-AC06-5E594D1DBDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB45493-154F-498D-AC06-5E594D1DBDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB45493-154F-498D-AC06-5E594D1DBDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB45493-154F-498D-AC06-5E594D1DBDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB45493-154F-498D-AC06-5E594D1DBDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE97203-44F5-496A-BB0D-372C5540C6E4}
+	EndGlobalSection
+EndGlobal
