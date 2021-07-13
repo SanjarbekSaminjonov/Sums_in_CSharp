@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Cars\bin\Debug\Cars.exe.config
+C:\Users\user\source\repos\Cars\bin\Debug\Cars.exe
+C:\Users\user\source\repos\Cars\bin\Debug\Cars.pdb
+C:\Users\user\source\repos\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Cars\obj\Debug\Cars.exe
+C:\Users\user\source\repos\Cars\obj\Debug\Cars.pdb
